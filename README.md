@@ -1,3 +1,13 @@
+In addition to the main repository of peda, this fork has following functions as of 29.Nov.2016:
+- register names in stack table 
+- trace logs are separated per traceinst and tracecall and include also date+time in filename
+More will follow soon I guess ;-)
+
+Have fun,
+Aydin
+
+Below the copy of the original readme from the official PEDA github repository: 
+
 peda
 ====
 
