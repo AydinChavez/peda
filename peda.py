@@ -19,9 +19,12 @@ import signal
 import traceback
 import codecs
 
+<<<<<<< HEAD
 #added by aydin
 import logging
 logging.basicConfig(filename='aydin.log',level=logging.DEBUG)
+=======
+>>>>>>> origin/tag_register_in_stack
 
 # point to absolute path of peda.py
 PEDAFILE = os.path.abspath(os.path.expanduser(__file__))
