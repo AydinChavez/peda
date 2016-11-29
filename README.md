@@ -1,7 +1,12 @@
-In addition to the main repository of peda, this fork has following functions as of 29.Nov.2016:
-- register names in stack table 
-- trace logs are separated per traceinst and tracecall and include also date+time in filename
-More will follow soon I guess ;-)
+Welcome,
+
+This fork offers following additional functions as of 29.Nov.2016:
+- Register names in stack table 
+![alt tag](https://cloud.githubusercontent.com/assets/15386811/20731747/e9f53962-b68b-11e6-824d-e765872853d8.png)
+
+- Trace logs are separated per traceinst and tracecall and include also date+time in filename
+
+More will follow soon - I guess ;-)
 
 Have fun,
 Aydin
