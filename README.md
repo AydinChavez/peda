@@ -1,6 +1,7 @@
 Welcome,
 
-This fork offers following additional functions as of 29.Nov.2016:
+this fork offers following additional functions as of Nov.2016:
+
 - Register names in stack table 
 ![alt tag](https://cloud.githubusercontent.com/assets/15386811/20731747/e9f53962-b68b-11e6-824d-e765872853d8.png)
 
