@@ -19,7 +19,6 @@ import signal
 import traceback
 import codecs
 
-#<<<<<<< HEAD
 #added by aydin
 #import logging
 #logging.basicConfig(filename='aydin.log',level=logging.DEBUG)
@@ -90,7 +89,7 @@ class PEDA(object):
         """
         try:
             gdb.execute(gdb_command)
-            logging.debug(gdb_command)
+            #logging.debug(gdb_command)
             return True
         except Exception as e:
             if config.Option.get("debug") == "on":
@@ -123,7 +122,7 @@ class PEDA(object):
         gdb.execute('set logging redirect on')
         gdb.execute('set logging on')
         try:
-            logging.debug(gdb_command)
+            #logging.debug(gdb_command)
             gdb.execute(gdb_command)
             gdb.flush()
             gdb.execute('set logging off')
